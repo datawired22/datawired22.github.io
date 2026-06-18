@@ -1,0 +1,10 @@
+{
+  "name": "datawired-datacamp-scholarship",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DataWired x DataCamp Scholarship Programme 2026/2027 Cohort - static site",
+  "scripts": {
+    "dev": "npx --yes serve@14 -l 3000 .",
+    "start": "npx --yes serve@14 -l 3000 ."
+  }
+}
